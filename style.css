@@ -1,0 +1,86 @@
+body {
+    background-image:url("background.jpg");
+    background-size: cover;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Sfondo nero trasparente */
+main {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center;
+    padding: 75px;
+    width: 50%;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 350px;
+    margin-bottom: 60px;
+    
+}
+
+ /* Logo lim */
+img{
+    width: 30%;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;
+    padding: 0%;
+}
+
+    /* Titolo */
+
+h1 {
+    color: rgb(57, 255, 20);
+    text-align: center;
+    margin: 0%;
+}
+
+/* Menù navigazione */
+nav {
+    background-color: rgb(57, 255, 20);
+    padding: 8px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+section {
+    color: white;
+}
+
+span {
+    font-size: 20px;
+}
+
+div {
+    font-size: 15px;
+}
+
+/* Stato carica di ogni monopattino */
+#carica1 {
+    background-color: rgb(255, 208, 69);
+    border-radius: 5px;
+    width: 370px;
+    height: 30px;
+    display: inline-block;
+
+}
+
+#carica2 {
+    background-color: rgb(57, 225, 27);
+    border-radius: 5px;
+    width: 550px;
+    height: 30px;
+    display: inline-block;
+
+}
+
+#carica3 {
+    background-color:rgb(246, 100, 81) ;
+    border-radius: 5px;
+    width: 160px;
+    height: 30px;
+    display: inline-block;
+
+}
